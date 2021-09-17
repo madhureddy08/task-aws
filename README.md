@@ -16,3 +16,6 @@ How the connection will be establised between Kubernetes on-premise with AWS clo
 Using AWS direct connect.
 
 Please check architecure diagram attached for end-to-end process.
+
+![image](https://user-images.githubusercontent.com/90915813/133832745-e68efac2-0dff-496f-ac94-2c50d0237db7.png)
+
